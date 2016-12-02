@@ -1,0 +1,35 @@
+{
+  "name": "It-Fits",
+  "version": "2.0.0",
+  "description": "HTML5 CSS3 Responsive Template ",
+  "main": "Index.html",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.12.3",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-htmlhint": "^0.4.1",
+    "matchdep": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cssjunction/It-Fits"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "RWD",
+    "Responsive",
+    "Web"
+  ],
+  "author": "Shekhar Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cssjunction/It-Fits/issues"
+  },
+  "homepage": "https://github.com/cssjunction/It-Fits"
+}
